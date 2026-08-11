@@ -344,8 +344,4 @@ Potential directions include:
 - Investigating neural-network-based feature learning
 - Further improving evaluation of minority-class performance
 
-## Repository
 
-The project repository is available at:
-
-https://github.com/py-xis/AIM-511-Machine-Learning-Project
